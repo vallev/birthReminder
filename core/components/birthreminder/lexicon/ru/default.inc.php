@@ -3,7 +3,7 @@ include_once 'setting.inc.php';
 
 $_lang['birthreminder'] = 'birthReminder';
 $_lang['birthreminder_menu_desc'] = 'Напоминания о днях рождениях.';
-$_lang['birthreminder_intro_msg'] = 'Вы можете выделять сразу несколько человекаов при помощи Shift или Ctrl.';
+$_lang['birthreminder_intro_msg'] = '';
 
 $_lang['birthreminder_people'] = 'Записи';
 $_lang['birthreminder_person_id'] = 'Id';
